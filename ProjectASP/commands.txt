@@ -1,0 +1,16 @@
+fgets ex1.c ex2.c ex3.c ex4.c
+
+tarfgetz 1000 12002 -u
+
+filesrch sample.txt
+
+targzf c txt pdf sh
+
+getdirf 2023-01-16 2023-03-04 -u
+
+quit
+
+
+
+
+
